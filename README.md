@@ -57,11 +57,11 @@ Referências oficiais: [configuração da publicação](https://docs.github.com/
 
 ## Colocar o link da Steam ou de download
 
-Edite `config.js`:
+O link oficial da Steam já está configurado nos três botões comerciais, em português, inglês e espanhol. Para alterar a loja ou as legendas, edite `config.js`:
 
 ```js
 window.RONRONS_CONFIG = {
-	storeUrl: "COLE_A_URL_HTTPS_OFICIAL_AQUI",
+	storeUrl: "https://store.steampowered.com/app/5376410/Caixa_de_Ronrons/",
 	storeLabel: {
 		pt: "Adicionar à lista de desejos",
 		en: "Add to your wishlist",

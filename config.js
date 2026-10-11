@@ -1,7 +1,6 @@
-// Cole a URL oficial da loja aqui quando ela estiver disponível.
-// Sem URL, os botões levam ao trailer; nenhum link de loja é inventado.
+// Página oficial de Caixa de Ronrons na Steam.
 window.RONRONS_CONFIG = {
-	storeUrl: "",
+	storeUrl: "https://store.steampowered.com/app/5376410/Caixa_de_Ronrons/",
 	storeLabel: {
 		pt: "Adicionar à lista de desejos",
 		en: "Add to your wishlist",
