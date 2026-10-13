@@ -1,0 +1,27 @@
+Caja de Ronroneos — PRESS KIT
+
+Descripción breve
+Caja de Ronroneos es un juego idle e incremental de gatitos en pixel art para Windows. Colecciona compañeros, acumula ronroneos, mejora tu habitación y lleva a los gatos al escritorio en el modo mascota.
+
+Sobre el juego
+Una sencilla caja de cartón es el comienzo de un hogar lleno de gatitos. En Caja de Ronroneos ganas ronroneos con clics y con la producción de los gatos, recibes nuevos compañeros e inviertes en mejoras para ampliar tu colección. Entre descubrimientos puedes atender los pedidos de los gatitos, completar tareas del diario y guardar momentos en el álbum de recuerdos. También hay un Juego de Memoria, la Carrera de Naranjito, el Buscagatos y un temporizador Pomodoro para alternar concentración y descanso. En el modo mascota, los gatos acompañan tu rutina en una franja del escritorio, con acceso a las funciones del juego mediante un menú compacto.
+
+Ficha del juego
+Desarrollo y publicación: LEANDRO ROGALA BRITEZ LTDA
+Género: Idle / incremental, casual, colección y mascota de escritorio
+Plataforma: Windows
+Disponibilidad: itch.io: disponible desde el 29/09/2026. Steam: próximamente.
+Precio: Consulta la página de cada tienda.
+Idiomas de la interfaz en Steam: Portugués (Brasil y Portugal), inglés, español, francés, italiano, alemán, ruso, chino simplificado, japonés, coreano y árabe.
+Motor: Godot
+
+LEANDRO ROGALA BRITEZ LTDA
+Contacto: leandrorogalabritezltda@gmail.com
+Sitio oficial: https://leandrorogalabritez.github.io/purr-box-comercial/
+Steam: https://store.steampowered.com/app/5376410/Caixa_de_Ronrons/
+itch.io: https://leandrorogalabritezltda.itch.io/caixaderonrons
+Press Kit: https://leandrorogalabritez.github.io/purr-box-comercial/press-kit.html?lang=es
+
+Utiliza estos materiales para presentar el juego en noticias, vídeos, streams y eventos. Identifica el proyecto como Caja de Ronroneos (Caixa de Ronrons / Purr Box) e incluye un enlace al sitio o a una tienda. Las ilustraciones promocionales están separadas de las capturas reales del juego.
+
+Información verificada el 13/10/2026.

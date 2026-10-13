@@ -9,6 +9,7 @@ window.RONRONS_I18N = {
 		es: { index: 2, tag: "es", og: "es_ES", video: "assets/trailer-es.mp4", poster: "assets/trailer-poster-es.png" },
 	},
 	strings: {
+		"nav.press": ["Press Kit", "Press Kit", "Kit de prensa"],
 		"meta.title": ["Caixa de Ronrons — uma caixa, muitos ronrons", "Purr Box — one box, plenty of purrs", "Caja de Ronroneos — una caja, muchos ronroneos"],
 		"meta.description": ["Conheça Caixa de Ronrons: um jogo idle de gatinhos em pixel art, com modo mascote na área de trabalho, minijogos e muitas lembranças para colecionar.", "Meet Purr Box: a pixel-art idle cat game with desktop companions, minigames and plenty of memories to collect.", "Conoce Caja de Ronroneos: un juego idle de gatitos en pixel art, con mascotas en el escritorio, minijuegos y muchos recuerdos para coleccionar."],
 		"meta.social": ["Uma companhia fofinha para jogar, fazer uma pausa e deixar o dia mais leve. Conheça os gatinhos de Caixa de Ronrons.", "Cute companions for playtime, little breaks and brighter days. Meet the cats of Purr Box.", "Una compañía adorable para jugar, descansar y alegrar tu día. Conoce a los gatitos de Caja de Ronroneos."],

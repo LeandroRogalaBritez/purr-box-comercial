@@ -90,6 +90,7 @@ function updateStoreLinks() {
 const modeImages = { room: "assets/screenshot-room.png", desktop: "assets/screenshot-desktop.png" };
 
 function renderMode() {
+	if (!document.querySelector("#mode-image")) return;
 	document.querySelectorAll("[data-mode]").forEach((button) => {
 		const active = button.dataset.mode === currentMode;
 		button.classList.toggle("active", active);
@@ -166,11 +167,12 @@ function applyLanguage(language) {
 			element.setAttribute(attribute, translate(element.getAttribute(`data-i18n-${attribute}`)));
 		});
 	}
-	document.title = translate("meta.title");
-	document.querySelector('meta[name="description"]').content = translate("meta.description");
+	const metaPrefix = document.body.dataset.page === "press" ? "press.meta" : "meta";
+	document.title = translate(`${metaPrefix}.title`);
+	document.querySelector('meta[name="description"]').content = translate(`${metaPrefix}.description`);
 	document.querySelector('meta[property="og:locale"]').content = locale.og;
-	document.querySelector('meta[property="og:title"]').content = translate("meta.title");
-	document.querySelector('meta[property="og:description"]').content = translate("meta.social");
+	document.querySelector('meta[property="og:title"]').content = translate(`${metaPrefix}.title`);
+	document.querySelector('meta[property="og:description"]').content = translate(`${metaPrefix}.social`);
 	updateMenuLabel();
 	updateStoreLinks();
 	renderMode();
@@ -184,6 +186,12 @@ function applyLanguage(language) {
 		source.src = locale.video;
 		video.load();
 	}
+	document.querySelectorAll("[data-language-link]").forEach((link) => {
+		const url = new URL(link.href, window.location.href);
+		url.searchParams.set("lang", currentLanguage);
+		link.href = url.href;
+	});
+	document.dispatchEvent(new CustomEvent("ronrons:language", { detail: { language: currentLanguage } }));
 }
 
 languageSelect.addEventListener("change", () => {

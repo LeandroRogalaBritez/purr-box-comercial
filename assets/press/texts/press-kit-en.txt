@@ -1,0 +1,27 @@
+Purr Box — PRESS KIT
+
+Short description
+Purr Box is a pixel-art idle and incremental cat game for Windows. Collect companions, earn purrs, upgrade your cozy room and bring your cats onto your desktop in desktop pet mode.
+
+About the game
+A simple cardboard box is the beginning of a home full of cats. In Purr Box, you earn purrs through clicks and your cats’ production, welcome new companions and invest in upgrades to grow your collection. Between discoveries, fulfill your cats’ requests, complete diary tasks and save moments in your memory album. The game also includes a Memory Game, Ginger’s Run, Cat Minesweeper and a Pomodoro timer for focus and rest. In desktop pet mode, your cats keep you company along a strip on your desktop, with game features accessible through a compact menu.
+
+Game facts
+Developer & publisher: LEANDRO ROGALA BRITEZ LTDA
+Genre: Idle / incremental, casual, collection and desktop pet
+Platform: Windows
+Availability: itch.io: available since September 29, 2026. Steam: coming soon.
+Price: See each store page.
+Steam interface languages: Portuguese (Brazil and Portugal), English, Spanish, French, Italian, German, Russian, Simplified Chinese, Japanese, Korean and Arabic.
+Engine: Godot
+
+LEANDRO ROGALA BRITEZ LTDA
+Contact: leandrorogalabritezltda@gmail.com
+Official website: https://leandrorogalabritez.github.io/purr-box-comercial/
+Steam: https://store.steampowered.com/app/5376410/Caixa_de_Ronrons/
+itch.io: https://leandrorogalabritezltda.itch.io/caixaderonrons
+Press Kit: https://leandrorogalabritez.github.io/purr-box-comercial/press-kit.html?lang=en
+
+Use these materials to cover the game in news, videos, streams and events. Identify the project as Purr Box (Caixa de Ronrons) and include a link to the website or a store page. Promotional artwork is separate from actual gameplay screenshots.
+
+Information checked on October 13, 2026.

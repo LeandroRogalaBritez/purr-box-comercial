@@ -9,6 +9,7 @@ on:
       - 'config.js'
       - 'i18n.js'
       - 'script.js'
+      - 'press-kit*'
       - 'assets/**'
       - '.github/workflows/pages.yml'
   workflow_dispatch:

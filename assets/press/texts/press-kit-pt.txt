@@ -1,0 +1,27 @@
+Caixa de Ronrons — PRESS KIT
+
+Descrição curta
+Caixa de Ronrons é um jogo idle e incremental de gatinhos em pixel art para Windows. Colecione companheiros, acumule ronrons, melhore sua salinha e leve os gatos para a área de trabalho no modo mascote.
+
+Sobre o jogo
+Uma simples caixa de papelão é o começo de um lar cheio de gatinhos. Em Caixa de Ronrons, você ganha ronrons com cliques e com a produção dos gatos, recebe novos companheiros e investe em melhorias para expandir sua coleção. Entre uma descoberta e outra, pode atender pedidos dos gatinhos, completar tarefas do diário e guardar momentos no álbum de lembranças. O jogo também oferece o Jogo da Memória, a Corrida do Laranjinha, o Gatominado e um timer Pomodoro para alternar foco e descanso. No modo mascote, os gatos acompanham sua rotina em uma faixa na área de trabalho, com acesso às funções do jogo por um menu compacto.
+
+Ficha do jogo
+Desenvolvimento & publicação: LEANDRO ROGALA BRITEZ LTDA
+Gênero: Idle / incremental, casual, coleção e mascote de desktop
+Plataforma: Windows
+Disponibilidade: itch.io: disponível desde 29/09/2026. Steam: em breve.
+Preço: Consulte a página de cada loja.
+Idiomas da interface na Steam: Português (Brasil e Portugal), inglês, espanhol, francês, italiano, alemão, russo, chinês simplificado, japonês, coreano e árabe.
+Engine: Godot
+
+LEANDRO ROGALA BRITEZ LTDA
+Contato: leandrorogalabritezltda@gmail.com
+Site oficial: https://leandrorogalabritez.github.io/purr-box-comercial/
+Steam: https://store.steampowered.com/app/5376410/Caixa_de_Ronrons/
+itch.io: https://leandrorogalabritezltda.itch.io/caixaderonrons
+Press Kit: https://leandrorogalabritez.github.io/purr-box-comercial/press-kit.html?lang=pt
+
+Use estes materiais para apresentar o jogo em notícias, vídeos, streams e eventos. Ao identificar o projeto, use Caixa de Ronrons (Purr Box) e inclua um link para o site ou uma das lojas. As artes promocionais estão separadas das capturas reais do jogo.
+
+Informações verificadas em 13/10/2026.

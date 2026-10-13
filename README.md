@@ -2,7 +2,17 @@
 
 Página estática em português do Brasil, inglês e espanhol, feita em HTML, CSS e JavaScript puro. Não precisa de Node, npm, build, banco de dados ou serviços externos. Todas as imagens e os três trailers estão nesta pasta; o site funciona também em um caminho de projeto como `https://leandrorogalabritez.github.io/purr-box-comercial/`.
 
-## Idiomas
+## Press Kit
+
+O material para imprensa está em `press-kit.html`, com link no menu e no rodapé da página inicial. A página acompanha o seletor de português, inglês e espanhol e também aceita `?lang=pt`, `?lang=en` e `?lang=es`.
+
+Inclui ficha com a disponibilidade por loja, descrições copiáveis, contato, links oficiais, logos transparentes, artes promocionais, 26 capturas originais em português e inglês, trailers e seis vídeos de 15 segundos nos formatos 16:9, 1:1 e 9:16. As informações foram conferidas nas lojas em 13/10/2026.
+
+`assets/press/caixa-de-ronrons-press-kit.zip` reúne textos, screenshots, logos e artes; os vídeos são baixados separadamente. `assets/press/screenshots.zip` contém somente as 26 capturas. Nenhum pacote inclui executáveis, chaves de teste, saves ou fontes do jogo. Os textos baixáveis ficam em `assets/press/texts/` e as traduções da página em `press-kit-i18n.js`.
+
+Ao atualizar os dados do jogo, revise também os arquivos TXT e gere novamente os ZIPs. O workflow do GitHub Pages inclui alterações em `press-kit*` e `assets/**`.
+
+## Idiomas do site
 
 O seletor no cabeçalho traduz textos, nomes, botões, legendas, descrições de imagens, rótulos de acessibilidade e metadados. O trailer e seu poster também mudam para o idioma escolhido. Os nomes públicos seguem os catálogos do jogo: **Caixa de Ronrons**, **Purr Box** e **Caja de Ronroneos**.
 
